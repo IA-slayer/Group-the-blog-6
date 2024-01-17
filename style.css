@@ -28,6 +28,18 @@ body {
   margin: 0; 
   padding: 0; 
 }
+h2 {
+  margin-top: 20px;
+}
+h1, h2 {
+  font-family:'Press Start 2P', cursive;
+  color: #ffffff;
+  width: 100%;
+  margin: auto;
+}
+.h2, h2 {
+  font-size: 2rem;
+}
 header {
   background-color:black; 
   color: white; 
@@ -39,14 +51,6 @@ footer {
   color: white; 
   padding: 10px; 
 }
-body {
-  font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 0;
-  background-color: #f4f4f4;
-}
-
-
 .formulario {
   max-width: 400px;
   margin: 20px auto;
