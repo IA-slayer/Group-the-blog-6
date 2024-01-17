@@ -46,12 +46,6 @@ body {
   background-color: #f4f4f4;
 }
 
-header {
-  background-color: #333;
-  color: white;
-  text-align: center;
-  padding: 1em;
-}
 
 .formulario {
   max-width: 400px;
@@ -93,12 +87,3 @@ button:hover {
   background-color: #555;
 }
 
-footer {
-  background-color: #333;
-  color: white;
-  text-align: center;
-  padding: 1em;
-  position: fixed;
-  bottom: 0;
-  width: 100%;
-}
