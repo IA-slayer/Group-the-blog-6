@@ -2,12 +2,20 @@ html {
   height: 100%;
   width: 100%;
 }
+#header {
+  background-color: #343a40!important;
+}
 img {
   max-width: 80%;
   height: auto;
   margin: auto;
   padding-top: 20px;
   padding-bottom: 20px;
+}
+p {
+  font-family: 'Roboto', sans-serif;
+  color: #ffffff;
+  padding: 20px;
 }
 .right {
   display: inline;
@@ -28,6 +36,18 @@ body {
   margin: 0; 
   padding: 0; 
 }
+h2 {
+  margin-top: 20px;
+}
+h1, h2 {
+  font-family:'Press Start 2P', cursive;
+  color: #ffffff;
+  width: 100%;
+  margin: auto;
+}
+.h2, h2 {
+  font-size: 2rem;
+}
 header {
   background-color:black; 
   color: white; 
@@ -38,8 +58,9 @@ footer {
   background-color: black;
   color: white; 
   padding: 10px; 
+  width: 80%;
+  margin: auto;
 }
-
 .formulario {
   max-width: 400px;
   margin: 20px auto;
@@ -47,8 +68,6 @@ footer {
   padding: 20px;
   border-radius: 5px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-
-  /* Cambia la presentación del formulario a bloque */
   display: block;
 }
 
