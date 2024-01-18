@@ -111,3 +111,18 @@ a{
   color : white
 }
 
+
+ul {
+  justify-content: center;
+}
+
+.flex-container 
+{
+  justify-content: center;
+  list-style: none;
+}
+
+#Listasinpuntos 
+{
+  list-style: none;
+}
