@@ -54,15 +54,6 @@ header {
   padding: 0px; 
   font-family: 'ArcadeClassic';
 }
-footer {
-  
-  color: white; 
-  padding: 0px;  
-  width: 80%;
-  bottom: 0; 
-  margin: 0; 
-}
-
 #miFooter {
   color: white;
   padding: 15px;
@@ -127,16 +118,6 @@ a{
 {
   list-style: none;
 }
-
-#mail{
-  float: center;
-  /* display: flex; */
-  flex-direction: center;
-  justify-content: center;
+.mail{
+  float: right;
 }
-
-/* #wtf{
-  float: center;
-  display: flex;
-  justify-content: center;
-} */
