@@ -128,3 +128,15 @@ a{
   list-style: none;
 }
 
+#mail{
+  float: center;
+  /* display: flex; */
+  flex-direction: center;
+  justify-content: center;
+}
+
+/* #wtf{
+  float: center;
+  display: flex;
+  justify-content: center;
+} */
