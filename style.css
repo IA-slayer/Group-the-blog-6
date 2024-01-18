@@ -118,6 +118,23 @@ a{
 {
   list-style: none;
 }
+footer div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center; 
+}
+#nombres{
+  margin: 20;
+  padding:20;
+  list-style: none;
+}
 .mail{
-  float: right;
+  float: center;
+  padding: 10px;
+  margin: 5px;
+}
+.project {
+  float: center;
+  padding: 10px;
+  margin: 5px;
 }
